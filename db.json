@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "4fbb",
+      "title": "sdcs",
+      "firstName": "acsdcc",
+      "lastName": "adcdsc",
+      "completed": false
+    },
+    {
+      "id": "0fbf",
+      "title": "sfdffdsgs",
+      "firstName": "qasddsf",
+      "lastName": "fsdfsd",
+      "completed": false
+    },
+    {
+      "id": "9fbd",
+      "title": "sgsgfdsr",
+      "firstName": "sdfsd",
+      "lastName": "sdfsgsf",
+      "completed": false
+    },
+    {
+      "id": "dce5",
+      "title": "sggrwew",
+      "firstName": "fdsfgsdd",
+      "lastName": "sdgdss",
+      "completed": false
+    },
+    {
+      "id": "093f",
+      "title": "trertedf",
+      "firstName": "wewrtrw",
+      "lastName": "erertwer43",
+      "completed": false
+    }
+  ],
+  "products": [
+    {
+      "id": "3",
+      "name": "Mahsulot A",
+      "price": 100
+    },
+    {
+      "id": "4",
+      "name": "Mahsulot B",
+      "price": 200
+    }
+  ]
+}
